@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+# model/veri ciktilari (buyuk dosyalar git'e girmesin)
+modeller/
+*.pt
+*.ckpt
+*.bin
+korpus*.txt
+qlm_pkg_*.zip
